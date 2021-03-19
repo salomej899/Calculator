@@ -1,2 +1,2 @@
 #Mean
-Mean function for the contribution to the Calculator
+Mean function takes numbers as arguments (int or float) and returns their arithmetic mean as a float.
